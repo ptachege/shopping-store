@@ -1,0 +1,29 @@
+body {
+    padding-top: 60px;
+}
+.jumbotron {
+    
+    margin-top: -10px;
+
+}
+.item h2 {
+    font-size: 30px;
+    margin: 50px 0;
+    
+}
+.carousel-indicators li {
+    border-color: black;
+
+}
+.carousel-indicators li.active {
+    background-color: black;
+}
+.carousel-control.right,.carousel-control.left{
+    background-image: none;
+    color: black;
+
+}
+.badge {
+    background: #1b78e2;;
+    color:#fff;
+}
